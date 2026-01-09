@@ -1,0 +1,16 @@
+{
+  "links": [
+    {
+      "name": "Main App",
+      "url": "https://www.mediafire.com/file/xxxx/main.apk"
+    },
+    {
+      "name": "Update",
+      "url": "https://www.mediafire.com/file/yyyy/update.apk"
+    },
+    {
+      "name": "Backup",
+      "url": "https://www.mediafire.com/file/zzzz/backup.apk"
+    }
+  ]
+}
